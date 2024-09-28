@@ -22,7 +22,7 @@ jobs:
         uses: Platane/snk@v2.2.1
         with:
           # github_user_name is your GitHub username (replace YOUR_GITHUB_USERNAME)
-          github_user_name: YOUR_GITHUB_USERNAME
+          github_user_name: mallisettiyaswanth
           # Output the SVG file to the images directory
           outputs: dist/snake.svg
 
