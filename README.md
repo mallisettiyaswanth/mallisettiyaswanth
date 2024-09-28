@@ -3,8 +3,11 @@
 
 ###
 
+<h1 align="center">
+  
 # Hi there 👋, I'm Yaswanth
 
+</h1>
 ### 🌐 Full Stack Developer | 🌱 Passionate about Building Dynamic Web Applications
 
 
