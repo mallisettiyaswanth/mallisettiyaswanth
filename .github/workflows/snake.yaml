@@ -14,12 +14,12 @@ jobs:
       - uses: actions/checkout@v3
 
       # Step 2: Generate the snake gif and svg
-      - uses: Platane/snk@master
+      - uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
           github_user_name: mallisettiyaswanth
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          output: |
+              dist/github-snake.svg
 
       # Step 3: Check the status of the git repo
       - run: git status
