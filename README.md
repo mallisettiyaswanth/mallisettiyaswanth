@@ -22,3 +22,27 @@
 [![](https://visitcount.itsvg.in/api?id=mallisettiyaswanth&icon=7&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mallisettiyaswanth.mallisettiyaswanth&"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mallisettiyaswanth&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mallisettiyaswanth&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mallisettiyaswanth&radius=0&theme=arctic&area=true&order=5&custom_title=Contributions%20%F0%9F%98%89&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mallisettiyaswanth/mallisettiyaswanth/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
+
