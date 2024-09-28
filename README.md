@@ -1,11 +1,12 @@
 
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/v2/D5616AQHMSuRO8qjn6A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709838195758?e=1732752000&v=beta&t=yZygRtbQi43vsGTdCrPre7soqSUHG6ldmuKeoGyu3p8"  />
-</div>
+
 
 ###
 
-<h1 align="center">H! there😉, I'm Yaswanth</h1>
+# Hi there 👋, I'm Yaswanth
+
+### 🌐 Full Stack Developer | 🌱 Passionate about Building Dynamic Web Applications
+
 
 ###
 
