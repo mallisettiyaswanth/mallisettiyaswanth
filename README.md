@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Yaswanth   <img src="https://emojis.slackmojis.com/emojis/images/1643515175/11901/laptop_parrot.png?1643515175" width="30"/></h1>
+<h1 align="center">Hey there, I'm Yaswanth   <img src="https://emojis.slackmojis.com/emojis/images/1620889067/38613/laptop.gif?1620889067" width="30"/></h1>
 
 
 <p align="center">
