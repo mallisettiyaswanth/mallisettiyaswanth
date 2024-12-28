@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, I'm Yaswanth   <img src="https://emojis.slackmojis.com/emojis/images/1643515175/11901/laptop_parrot.png?1643515175" width="30"/></h1>
 
 
-<p align="center">
+<p align="center" >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=30&pause=1000&color=2A40F7&width=435&lines=Full+Stack+Developer+;2x+Intern+%F0%9F%92%BB;Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
 
